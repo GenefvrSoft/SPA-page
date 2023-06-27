@@ -1,0 +1,23 @@
+@import './base//settings';
+@import './base/base';
+
+
+
+// imports components, 
+
+@import './Components/navbar';
+@import './Components/banner';
+@import './Components/infoSpa';
+@import './Components/servicios';
+@import './Components/reseña';
+@import './Components/registroUser';
+@import './Components/Vlog/vlog'
+
+
+//imports utils
+// @import './utils/spiner';
+// @import './utils/buttons';
+// se puede usar las varibles en los componentes sin tener que importar el archivo que las tiene, @import
+
+
+ 

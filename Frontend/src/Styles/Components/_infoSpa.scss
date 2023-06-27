@@ -1,0 +1,38 @@
+
+.Descripcion {
+    background-color: $primary;
+    height: 580px;    
+    margin-top: -3.5px;
+    text-align: center;
+}
+.tituloSeccion {
+    font-size: 25px;
+    margin-bottom: 3rem;
+    padding-top: 3rem;
+}
+.contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cardDetalles {
+    height: 450px;
+    width: 450px;
+    background-color: #fff;
+    border: 1px solid rgb(160, 153, 153);
+    border-radius: 12px;
+    margin-right: 2rem;
+    padding: 15px;
+}
+
+
+.imagenesSpa {
+    border-radius: 10px;
+    height: 100%;
+    max-width: 100%;
+}
+
+.aboutInfoSpa {
+    margin-bottom: 2rem;
+}

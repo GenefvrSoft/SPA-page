@@ -1,0 +1,53 @@
+.Formulario {
+    width: 100%;
+    background-color: $primary;
+    width: 100%;
+    background-color: $primary;
+    height: calc(100vh - 50px);
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.tituloRegistro {
+    text-align: center;
+} 
+
+.formulario, .inicio-sesion {
+    height: 460px;
+    width: 450px;
+    background-color: #fff;
+    border: 1px solid rgb(160, 153, 153);
+    border-radius: 12px;
+    margin-right: 2rem;
+    padding: 15px;
+    margin-top: 5rem;
+
+    div {
+        margin-bottom: 14px;
+        display: flex;
+        flex-direction: column;
+
+        input {
+            border-radius: 8px;
+            border: 1px solid $primary;
+            outline: none;
+            padding: 8px;
+        }
+    }
+    button {
+        padding: 8px;
+        outline: none;
+        border: none;
+        border-radius: 8px;
+        background-color: $primary;
+        color: #Fff;
+        cursor: pointer;
+    }
+}
+
+.inicio-sesion {
+    height: 200px;
+}

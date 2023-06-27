@@ -1,0 +1,47 @@
+.reseña{
+    width: 100%;
+    background-color: $primary;
+    height: 580px;
+    margin-top: -3.5px;
+}
+
+.tituloSeccion {
+    text-align: center;
+
+}
+
+.card {
+    height: 400px;
+    width: 250px;
+    background-color: #fff;
+    border: 1px solid rgb(160, 153, 153);
+    border-radius: 12px;
+    margin-right: 2rem;
+    padding: 15px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    div {
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        margin-bottom: 15px;
+        
+        img {
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            border: 2px solid $primary;
+            padding: 2px;
+            object-fit: cover;
+            margin-bottom: 8px;
+        }
+    }
+    p {
+        text-align: justify;
+        color: $primary;
+    }
+}
+
