@@ -1,3 +1,7 @@
+WIREFRAMES & MOCKUPS
+--------------------
+https://www.figma.com/file/haM37hoYGJK8P9rJ7Q8uu2/Spa?type=design&mode=design&t=BxUliJG4rYCbfjjL-0
+
 1. Diseño y Responsividad:
    - Crea un diseño agradable y atractivo para la página web, utilizando técnicas avanzadas de diseño web, como flexbox o grid.
    - Asegúrate de que el diseño sea totalmente responsive y se adapte a diferentes dispositivos y resoluciones.
